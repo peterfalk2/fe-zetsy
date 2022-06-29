@@ -42,11 +42,8 @@ p {
 	color:rgb(153 173 166);
 }
 .tiles > a {
-	display: inline-block;
-	padding: 1px;
+	display: inline-block;	
 	border: 5px solid rgb(204 204 204);
-	
-
 }
 footer > p {
 	text-align: right;
